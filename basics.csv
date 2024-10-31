@@ -1,0 +1,195 @@
+,id,gender,batch,avg_internet_usage,usage_type,avg_pre_covid_use,avg_post_covid_use,change_in_usage
+0,17/20,F,senior,6 to 8 hours per day,Online learning,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+1,17/1,F,senior,4 to 6 hours per day,Online learning,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+2,17/10,F,senior,more than 8 hours per day,Online learning,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+3,17/11,F,senior,6 to 8 hours per day,Online learning,2 to 4 hrs per day,8 or more hrs per day,INCREASED
+4,17/12,F,senior,6 to 8 hours per day,Online learning,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+5,17/13,F,senior,6 to 8 hours per day,Communication,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+6,17/16,F,senior,4 to 6 hours per day,Online learning,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+7,17/17,F,senior,2 to 4 hours per day,Communication,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+8,17/19,F,senior,2 to 4 hours per day,Streaming services/ Entertainment,6 to 8 hrs per day,8 or more hrs per day,INCREASED
+9,17/21,F,senior,0 to 2 hours per day,Online learning,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+10,17/22,F,senior,2 to 4 hours per day,Information gathering for academic purposes,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+11,17/24,F,senior,6 to 8 hours per day,Streaming services/ Entertainment,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+12,17/25,F,senior,2 to 4 hours per day,Browsing,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+13,17/26,F,senior,4 to 6 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+14,17/33,F,senior,more than 8 hours per day,More than 1 of the above,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+15,17/38,F,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+16,17/39,F,senior,6 to 8 hours per day,Online learning,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+17,17/4,F,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+18,17/40,F,senior,more than 8 hours per day,Streaming services/ Entertainment,8 or more hrs per day,6 to 8 hrs per day,DECREASED
+19,17/41,F,senior,2 to 4 hours per day,Online learning,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+20,17/45,F,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+21,17/46,F,senior,2 to 4 hours per day,Social media,2 to 4 hrs per day,8 or more hrs per day,INCREASED
+22,17/47,F,senior,more than 8 hours per day,Online learning,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+23,17/48,F,senior,4 to 6 hours per day,Information gathering for academic purposes,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+24,17/49,F,senior,4 to 6 hours per day,Information gathering for academic purposes,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+25,17/5,F,senior,4 to 6 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+26,17/50,F,senior,6 to 8 hours per day,Information gathering for academic purposes,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+27,17/51,F,senior,4 to 6 hours per day,Social media,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+28,17/52,F,senior,2 to 4 hours per day,Social media,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+29,17/53,F,senior,6 to 8 hours per day,Online learning,8 or more hrs per day,4 to 6 hrs per day,DECREASED
+30,17/54,F,senior,4 to 6 hours per day,Browsing,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+31,17/7,F,senior,6 to 8 hours per day,Social media,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+32,20/1,F,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+33,20/10,F,junior,4 to 6 hours per day,Social media,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+34,20/103,F,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+35,20/116,F,junior,6 to 8 hours per day,Social media,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+36,20/117,F,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+37,20/118,F,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+38,20/119,F,junior,2 to 4 hours per day,Streaming services/ Entertainment,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+39,20/12,F,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+40,20/126,F,junior,2 to 4 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+41,20/129,F,junior,2 to 4 hours per day,Browsing,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+42,20/13,F,junior,4 to 6 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+43,20/132,F,junior,2 to 4 hours per day,Information gathering for academic purposes,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+44,20/133,F,junior,4 to 6 hours per day,Communication,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+45,20/134,F,junior,0 to 2 hours per day,Browsing,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+46,20/16,F,junior,6 to 8 hours per day,Browsing,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+47,20/18,F,junior,2 to 4 hours per day,Online learning,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+48,20/19,F,junior,2 to 4 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+49,20/20,F,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+50,20/26,F,junior,4 to 6 hours per day,Streaming services/ Entertainment,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+51,20/28,F,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+52,20/35,F,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+53,20/36,F,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+54,20/45,F,junior,2 to 4 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+55,20/51,F,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+56,20/52,F,junior,6 to 8 hours per day,Social media,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+57,20/55,F,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+58,20/56,F,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+59,20/57,F,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+60,20/6,F,junior,2 to 4 hours per day,Communication,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+61,20/62,F,junior,6 to 8 hours per day,Online learning,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+62,20/64,F,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+63,20/65,F,junior,2 to 4 hours per day,Streaming services/ Entertainment,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+64,20/70,F,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+65,20/71,F,junior,4 to 6 hours per day,Streaming services/ Entertainment,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+66,20/72,F,junior,2 to 4 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+67,20/76,F,junior,2 to 4 hours per day,Online learning,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+68,20/77,F,junior,6 to 8 hours per day,Online learning,6 to 8 hrs per day,8 or more hrs per day,INCREASED
+69,20/78,F,junior,4 to 6 hours per day,Streaming services/ Entertainment,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+70,20/8,F,junior,2 to 4 hours per day,Online learning,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+71,20/80,F,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+72,20/84,F,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+73,20/87,F,junior,2 to 4 hours per day,Social media,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+74,20/89,F,junior,2 to 4 hours per day,Social media,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+75,20/91,F,junior,4 to 6 hours per day,Streaming services/ Entertainment,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+76,20/95,F,junior,4 to 6 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+77,17/14,M,senior,4 to 6 hours per day,Online learning,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+78,17/15,M,senior,6 to 8 hours per day,Online Gaming,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+79,17/18,M,senior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+80,17/2,M,senior,4 to 6 hours per day,Information gathering for academic purposes,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+81,17/23,M,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+82,17/27,M,senior,6 to 8 hours per day,Social media,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+83,17/28,M,senior,more than 8 hours per day,Information gathering for academic purposes,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+84,17/29,M,senior,more than 8 hours per day,Online learning,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+85,17/3,M,senior,6 to 8 hours per day,Online learning,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+86,17/30,M,senior,4 to 6 hours per day,Communication,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+87,17/31,M,senior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+88,17/32,M,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+89,17/34,M,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+90,17/35,M,senior,more than 8 hours per day,Online learning,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+91,17/36,M,senior,6 to 8 hours per day,Social media,NO RESPONSE,6 to 8 hrs per day,INCREASED
+92,17/37,M,senior,4 to 6 hours per day,Online learning,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+93,17/42,M,senior,6 to 8 hours per day,Information gathering for academic purposes,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+94,17/43,M,senior,6 to 8 hours per day,Information gathering for academic purposes,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+95,17/44,M,senior,4 to 6 hours per day,Online learning,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+96,17/55,M,senior,0 to 2 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+97,17/6,M,senior,6 to 8 hours per day,Information gathering for academic purposes,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+98,17/8,M,senior,more than 8 hours per day,Streaming services/ Entertainment,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+99,17/9,M,senior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+100,20/100,M,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,8 or more hrs per day,INCREASED
+101,20/101,M,junior,6 to 8 hours per day,Social media,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+102,20/102,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+103,20/104,M,junior,4 to 6 hours per day,Online Gaming,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+104,20/105,M,junior,4 to 6 hours per day,Social media,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+105,20/106,M,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+106,20/107,M,junior,0 to 2 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+107,20/108,M,junior,2 to 4 hours per day,Streaming services/ Entertainment,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+108,20/109,M,junior,6 to 8 hours per day,Online Gaming,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+109,20/11,M,junior,6 to 8 hours per day,Information gathering for academic purposes,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+110,20/110,M,junior,2 to 4 hours per day,Online learning,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+111,20/111,M,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,6 to 8 hrs per day,INCREASED
+112,20/112,M,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+113,20/113,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+114,20/114,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+115,20/115,M,junior,more than 8 hours per day,Social media,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+116,20/120,M,junior,2 to 4 hours per day,Browsing,8 or more hrs per day,6 to 8 hrs per day,DECREASED
+117,20/121,M,junior,0 to 2 hours per day,Social media,2 to 4 hrs per day,0 to 2 hrs per day,DECREASED
+118,20/122,M,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+119,20/123,M,junior,0 to 2 hours per day,Information gathering for academic purposes,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+120,20/124,M,junior,0 to 2 hours per day,Online learning,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+121,20/125,M,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,8 or more hrs per day,INCREASED
+122,20/127,M,junior,6 to 8 hours per day,Social media,8 or more hrs per day,6 to 8 hrs per day,DECREASED
+123,20/128,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+124,20/130,M,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+125,20/131,M,junior,more than 8 hours per day,Browsing,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+126,20/135,M,junior,4 to 6 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+127,20/136,M,junior,4 to 6 hours per day,Online Gaming,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+128,20/137,M,junior,2 to 4 hours per day,Social media,4 to 6 hrs per day,4 to 6 hrs per day,NO CHANGE
+129,20/138,M,junior,0 to 2 hours per day,Online Gaming,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+130,20/139,M,junior,6 to 8 hours per day,Online learning,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+131,20/14,M,junior,4 to 6 hours per day,Social media,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+132,20/15,M,junior,0 to 2 hours per day,Social media,8 or more hrs per day,4 to 6 hrs per day,DECREASED
+133,20/17,M,junior,2 to 4 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+134,20/2,M,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+135,20/21,M,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,6 to 8 hrs per day,INCREASED
+136,20/22,M,junior,2 to 4 hours per day,Streaming services/ Entertainment,6 to 8 hrs per day,2 to 4 hrs per day,DECREASED
+137,20/23,M,junior,more than 8 hours per day,Social media,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+138,20/24,M,junior,6 to 8 hours per day,Social media,0 to 2 hrs per day,6 to 8 hrs per day,INCREASED
+139,20/25,M,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+140,20/27,M,junior,more than 8 hours per day,Social media,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+141,20/29,M,junior,2 to 4 hours per day,Browsing,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+142,20/3,M,junior,6 to 8 hours per day,Social media,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+143,20/30,M,junior,4 to 6 hours per day,Social media,8 or more hrs per day,6 to 8 hrs per day,DECREASED
+144,20/31,M,junior,2 to 4 hours per day,Social media,2 to 4 hrs per day,0 to 2 hrs per day,DECREASED
+145,20/32,M,junior,0 to 2 hours per day,Information gathering for academic purposes,2 to 4 hrs per day,0 to 2 hrs per day,DECREASED
+146,20/33,M,junior,4 to 6 hours per day,More than 1 of the above,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+147,20/34,M,junior,2 to 4 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+148,20/37,M,junior,4 to 6 hours per day,Streaming services/ Entertainment,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+149,20/38,M,junior,2 to 4 hours per day,Social media,8 or more hrs per day,2 to 4 hrs per day,DECREASED
+150,20/39,M,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+151,20/4,M,junior,0 to 2 hours per day,Online learning,2 to 4 hrs per day,0 to 2 hrs per day,DECREASED
+152,20/40,M,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+153,20/41,M,junior,4 to 6 hours per day,Streaming services/ Entertainment,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+154,20/42,M,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+155,20/43,M,junior,4 to 6 hours per day,Information gathering for academic purposes,NO RESPONSE,NO RESPONSE,NO RESPONSE
+156,20/44,M,junior,more than 8 hours per day,Online Gaming,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+157,20/46,M,junior,more than 8 hours per day,Communication,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+158,20/47,M,junior,2 to 4 hours per day,Browsing,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+159,20/48,M,junior,4 to 6 hours per day,Social media,6 to 8 hrs per day,8 or more hrs per day,INCREASED
+160,20/49,M,junior,0 to 2 hours per day,Communication,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+161,20/5,M,junior,4 to 6 hours per day,Online Gaming,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+162,20/50,M,junior,2 to 4 hours per day,Online learning,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+163,20/53,M,junior,4 to 6 hours per day,Social media,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+164,20/54,M,junior,0 to 2 hours per day,Online learning,4 to 6 hrs per day,2 to 4 hrs per day,DECREASED
+165,20/58,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,4 to 6 hrs per day,INCREASED
+166,20/59,M,junior,0 to 2 hours per day,Social media,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+167,20/60,M,junior,more than 8 hours per day,Information gathering for academic purposes,8 or more hrs per day,8 or more hrs per day,NO CHANGE
+168,20/61,M,junior,4 to 6 hours per day,Information gathering for academic purposes,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+169,20/63,M,junior,more than 8 hours per day,Social media,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+170,20/66,M,junior,0 to 2 hours per day,Social media,NO RESPONSE,NO RESPONSE,NO RESPONSE
+171,20/67,M,junior,2 to 4 hours per day,Social media,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+172,20/68,M,junior,2 to 4 hours per day,Browsing,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+173,20/69,M,junior,0 to 2 hours per day,Social media,4 to 6 hrs per day,8 or more hrs per day,INCREASED
+174,20/7,M,junior,0 to 2 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+175,20/73,M,junior,0 to 2 hours per day,Communication,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+176,20/74,M,junior,4 to 6 hours per day,Social media,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+177,20/75,M,junior,2 to 4 hours per day,Online learning,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
+178,20/79,M,junior,4 to 6 hours per day,Social media,0 to 2 hrs per day,6 to 8 hrs per day,INCREASED
+179,20/81,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+180,20/82,M,junior,0 to 2 hours per day,Browsing,2 to 4 hrs per day,8 or more hrs per day,INCREASED
+181,20/83,M,junior,6 to 8 hours per day,Social media,2 to 4 hrs per day,6 to 8 hrs per day,INCREASED
+182,20/85,M,junior,4 to 6 hours per day,Information gathering for academic purposes,2 to 4 hrs per day,4 to 6 hrs per day,INCREASED
+183,20/86,M,junior,2 to 4 hours per day,Social media,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+184,20/88,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,2 to 4 hrs per day,INCREASED
+185,20/9,M,junior,6 to 8 hours per day,Online learning,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+186,20/90,M,junior,4 to 6 hours per day,Social media,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+187,20/92,M,junior,2 to 4 hours per day,Social media,NO RESPONSE,NO RESPONSE,NO RESPONSE
+188,20/93,M,junior,more than 8 hours per day,Social media,6 to 8 hrs per day,8 or more hrs per day,INCREASED
+189,20/94,M,junior,4 to 6 hours per day,Social media,6 to 8 hrs per day,6 to 8 hrs per day,NO CHANGE
+190,20/96,M,junior,4 to 6 hours per day,Browsing,6 to 8 hrs per day,4 to 6 hrs per day,DECREASED
+191,20/97,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,0 to 2 hrs per day,NO CHANGE
+192,20/98,M,junior,2 to 4 hours per day,Social media,0 to 2 hrs per day,8 or more hrs per day,INCREASED
+193,20/99,M,junior,4 to 6 hours per day,Social media,2 to 4 hrs per day,2 to 4 hrs per day,NO CHANGE
