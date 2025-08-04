@@ -1,195 +1,195 @@
-gender,age,batch,avg_internet_usage,usage_type,iat_total,iat_cat
-F,21 to 25,Final,4-6 hrs,Online learning,8,Normal
-M,21 to 25,Final,4-6 hrs,Online learning,38,Mild
-M,21 to 25,Final,6-8 hrs,Online learning,36,Mild
-F,21 to 25,Final,4-6 hrs,Online learning,51,Moderate
-F,21 to 25,Final,4-6 hrs,Online learning,44,Mild
-M,21 to 25,Final,6-8 hrs,Online learning,34,Mild
-F,21 to 25,Final,6-8 hrs,Social media,62,Moderate
-M,21 to 25,Final,>8 hrs,Entertainment,68,Moderate
-M,21 to 25,Final,0-2 hrs,Social media,12,Normal
-F,21 to 25,Final,>8 hrs,Online learning,16,Normal
-F,21 to 25,Final,6-8 hrs,Online learning,33,Mild
-F,21 to 25,Final,6-8 hrs,Online learning,60,Moderate
-F,21 to 25,Final,6-8 hrs,Communication,41,Mild
-M,21 to 25,Final,4-6 hrs,Online learning,14,Normal
-M,21 to 25,Final,6-8 hrs,Entertainment,28,Normal
-F,21 to 25,Final,4-6 hrs,Online learning,30,Normal
-F,21 to 25,Final,2-4 hrs,Communication,27,Normal
-M,21 to 25,Final,0-2 hrs,Social media,31,Mild
-F,21 to 25,Final,2-4 hrs,Entertainment,43,Mild
-F,21 to 25,Final,6-8 hrs,Online learning,36,Mild
-F,21 to 25,Final,0-2 hrs,Online learning,29,Normal
-F,21 to 25,Final,2-4 hrs,Online learning,16,Normal
-M,21 to 25,Final,4-6 hrs,Online learning,6,Normal
-F,21 to 25,Final,6-8 hrs,Entertainment,29,Normal
-F,21 to 25,Final,2-4 hrs,Entertainment,40,Mild
-F,21 to 25,Final,4-6 hrs,Online learning,10,Normal
-M,21 to 25,Final,6-8 hrs,Social media,47,Mild
-M,21 to 25,Final,>8 hrs,Online learning,24,Normal
-M,21 to 25,Final,>8 hrs,Online learning,28,Normal
-M,21 to 25,Final,4-6 hrs,Communication,36,Mild
-M,21 to 25,Final,0-2 hrs,Social media,38,Mild
-M,21 to 25,Final,4-6 hrs,Online learning,24,Normal
-F,21 to 25,Final,>8 hrs,>1 category,14,Normal
-M,21 to 25,Final,4-6 hrs,Online learning,34,Mild
-M,21 to 25,Final,>8 hrs,Online learning,39,Mild
-M,21 to 25,Final,6-8 hrs,Social media,29,Normal
-M,21 to 25,Final,4-6 hrs,Online learning,20,Normal
-F,21 to 25,Final,4-6 hrs,Online learning,36,Mild
-F,21 to 25,Final,6-8 hrs,Online learning,43,Mild
-F,21 to 25,Final,>8 hrs,Entertainment,49,Mild
-F,21 to 25,Final,2-4 hrs,Online learning,41,Mild
-M,21 to 25,Final,6-8 hrs,Online learning,33,Mild
-M,21 to 25,Final,6-8 hrs,Online learning,35,Mild
-M,21 to 25,Final,4-6 hrs,Online learning,29,Normal
-F,21 to 25,Final,4-6 hrs,Online learning,21,Normal
-F,21 to 25,Final,2-4 hrs,Social media,18,Normal
-F,21 to 25,Final,>8 hrs,Online learning,45,Mild
-F,21 to 25,Final,4-6 hrs,Online learning,35,Mild
-F,21 to 25,Final,4-6 hrs,Online learning,23,Normal
-F,21 to 25,Final,6-8 hrs,Online learning,39,Mild
-F,21 to 25,Final,4-6 hrs,Social media,41,Mild
-F,21 to 25,Final,2-4 hrs,Social media,24,Normal
-F,21 to 25,Final,6-8 hrs,Online learning,28,Normal
-F,21 to 25,Final,4-6 hrs,Browsing,27,Normal
-M,21 to 25,Final,0-2 hrs,Social media,16,Normal
-F,18 to 21,First,4-6 hrs,Social media,24,Normal
-M,18 to 21,First,2-4 hrs,Social media,66,Moderate
-M,18 to 21,First,6-8 hrs,Social media,69,Moderate
-M,18 to 21,First,0-2 hrs,Online learning,34,Mild
-M,18 to 21,First,4-6 hrs,Entertainment,42,Mild
-F,18 to 21,First,2-4 hrs,Communication,61,Moderate
-M,21 to 25,First,0-2 hrs,Social media,49,Mild
-F,18 to 21,First,2-4 hrs,Online learning,13,Normal
-M,21 to 25,First,6-8 hrs,Online learning,59,Moderate
-F,21 to 25,First,4-6 hrs,Social media,57,Moderate
-M,18 to 21,First,6-8 hrs,Online learning,33,Mild
-F,18 to 21,First,2-4 hrs,Social media,18,Normal
-F,18 to 21,First,4-6 hrs,Online learning,26,Normal
-M,18 to 21,First,4-6 hrs,Social media,68,Moderate
-M,18 to 21,First,0-2 hrs,Social media,39,Mild
-F,18 to 21,First,6-8 hrs,Browsing,29,Normal
-M,18 to 21,First,2-4 hrs,Entertainment,16,Normal
-F,18 to 21,First,2-4 hrs,Online learning,24,Normal
-F,18 to 21,First,2-4 hrs,Online learning,17,Normal
-F,18 to 21,First,4-6 hrs,Social media,42,Mild
-M,18 to 21,First,4-6 hrs,Social media,66,Moderate
-M,18 to 21,First,2-4 hrs,Entertainment,43,Mild
-M,18 to 21,First,>8 hrs,Social media,88,Severe
-M,18 to 21,First,6-8 hrs,Social media,55,Moderate
-M,18 to 21,First,0-2 hrs,Social media,31,Mild
-F,18 to 21,First,4-6 hrs,Entertainment,51,Moderate
-M,18 to 21,First,>8 hrs,Social media,91,Severe
-F,18 to 21,First,2-4 hrs,Social media,33,Mild
-M,18 to 21,First,2-4 hrs,Browsing,24,Normal
-M,18 to 21,First,4-6 hrs,Social media,48,Mild
-M,18 to 21,First,2-4 hrs,Social media,55,Moderate
-M,18 to 21,First,0-2 hrs,Online learning,20,Normal
-M,18 to 21,First,4-6 hrs,>1 category,46,Mild
-M,18 to 21,First,2-4 hrs,Entertainment,56,Moderate
-F,18 to 21,First,2-4 hrs,Social media,30,Normal
-F,21 to 25,First,4-6 hrs,Social media,42,Mild
-M,18 to 21,First,4-6 hrs,Entertainment,48,Mild
-M,18 to 21,First,2-4 hrs,Social media,33,Mild
-M,18 to 21,First,4-6 hrs,Social media,55,Moderate
-M,18 to 21,First,0-2 hrs,Social media,33,Mild
-M,18 to 21,First,4-6 hrs,Entertainment,50,Moderate
-M,18 to 21,First,0-2 hrs,Social media,35,Mild
-M,18 to 21,First,4-6 hrs,Online learning,37,Mild
-M,18 to 21,First,>8 hrs,Entertainment,72,Moderate
-F,18 to 21,First,2-4 hrs,Entertainment,12,Normal
-M,18 to 21,First,>8 hrs,Communication,56,Moderate
-M,18 to 21,First,2-4 hrs,Browsing,36,Mild
-M,18 to 21,First,4-6 hrs,Social media,39,Mild
-M,18 to 21,First,0-2 hrs,Communication,32,Mild
-M,18 to 21,First,2-4 hrs,Online learning,54,Moderate
-F,18 to 21,First,2-4 hrs,Social media,43,Mild
-F,18 to 21,First,6-8 hrs,Social media,36,Mild
-M,18 to 21,First,4-6 hrs,Social media,52,Moderate
-M,18 to 21,First,0-2 hrs,Online learning,53,Moderate
-F,18 to 21,First,2-4 hrs,Social media,13,Normal
-F,18 to 21,First,4-6 hrs,Social media,17,Normal
-F,18 to 21,First,4-6 hrs,Social media,39,Mild
-M,18 to 21,First,2-4 hrs,Social media,57,Moderate
-M,21 to 25,First,0-2 hrs,Social media,23,Normal
-M,18 to 21,First,>8 hrs,Online learning,49,Mild
-M,18 to 21,First,4-6 hrs,Online learning,51,Moderate
-F,18 to 21,First,6-8 hrs,Online learning,35,Mild
-M,18 to 21,First,>8 hrs,Social media,64,Moderate
-F,18 to 21,First,4-6 hrs,Social media,50,Moderate
-F,18 to 21,First,2-4 hrs,Entertainment,36,Mild
-M,18 to 21,First,0-2 hrs,Social media,57,Moderate
-M,18 to 21,First,2-4 hrs,Social media,52,Moderate
-M,18 to 21,First,2-4 hrs,Browsing,33,Mild
-M,18 to 21,First,0-2 hrs,Social media,44,Mild
-F,18 to 21,First,2-4 hrs,Social media,39,Mild
-F,18 to 21,First,4-6 hrs,Entertainment,35,Mild
-F,18 to 21,First,2-4 hrs,Online learning,44,Mild
-M,18 to 21,First,0-2 hrs,Communication,70,Moderate
-M,18 to 21,First,4-6 hrs,Social media,39,Mild
-M,18 to 21,First,2-4 hrs,Online learning,26,Normal
-F,18 to 21,First,2-4 hrs,Online learning,29,Normal
-F,18 to 21,First,6-8 hrs,Online learning,80,Severe
-F,21 to 25,First,4-6 hrs,Entertainment,11,Normal
-M,18 to 21,First,4-6 hrs,Social media,46,Mild
-F,18 to 21,First,0-2 hrs,Social media,49,Mild
-M,18 to 21,First,2-4 hrs,Social media,36,Mild
-M,18 to 21,First,0-2 hrs,Browsing,29,Normal
-M,18 to 21,First,6-8 hrs,Social media,39,Mild
-F,18 to 21,First,4-6 hrs,Social media,28,Normal
-M,18 to 21,First,4-6 hrs,Online learning,36,Mild
-M,18 to 21,First,2-4 hrs,Social media,48,Mild
-F,18 to 21,First,2-4 hrs,Social media,27,Normal
-M,18 to 21,First,2-4 hrs,Social media,33,Mild
-F,18 to 21,First,2-4 hrs,Social media,16,Normal
-M,18 to 21,First,4-6 hrs,Social media,54,Moderate
-F,18 to 21,First,4-6 hrs,Entertainment,46,Mild
-M,18 to 21,First,2-4 hrs,Social media,98,Severe
-M,21 to 25,First,>8 hrs,Social media,67,Moderate
-M,18 to 21,First,4-6 hrs,Social media,38,Mild
-F,18 to 21,First,4-6 hrs,Entertainment,57,Moderate
-M,18 to 21,First,4-6 hrs,Browsing,54,Moderate
-M,18 to 21,First,2-4 hrs,Social media,29,Normal
-M,18 to 21,First,2-4 hrs,Social media,74,Moderate
-M,18 to 21,First,4-6 hrs,Social media,49,Mild
-M,18 to 21,First,4-6 hrs,Social media,35,Mild
-M,18 to 21,First,6-8 hrs,Social media,28,Normal
-M,18 to 21,First,2-4 hrs,Social media,28,Normal
-F,18 to 21,First,4-6 hrs,Social media,58,Moderate
-M,18 to 21,First,4-6 hrs,Entertainment,55,Moderate
-M,18 to 21,First,4-6 hrs,Social media,76,Moderate
-M,18 to 21,First,4-6 hrs,Social media,42,Mild
-M,18 to 21,First,0-2 hrs,Entertainment,30,Normal
-M,18 to 21,First,2-4 hrs,Entertainment,52,Moderate
-M,18 to 21,First,6-8 hrs,Entertainment,39,Mild
-M,18 to 21,First,2-4 hrs,Online learning,45,Mild
-M,18 to 21,First,4-6 hrs,Social media,61,Moderate
-M,18 to 21,First,0-2 hrs,Social media,68,Moderate
-M,18 to 21,First,2-4 hrs,Social media,28,Normal
-M,18 to 21,First,2-4 hrs,Social media,49,Mild
-M,21 to 25,First,>8 hrs,Social media,64,Moderate
-F,18 to 21,First,6-8 hrs,Social media,36,Mild
-F,18 to 21,First,2-4 hrs,Social media,54,Moderate
-F,18 to 21,First,2-4 hrs,Social media,14,Normal
-F,18 to 21,First,2-4 hrs,Entertainment,38,Mild
-M,21 to 25,First,2-4 hrs,Browsing,38,Mild
-M,18 to 21,First,0-2 hrs,Social media,62,Moderate
-M,18 to 21,First,0-2 hrs,Social media,30,Normal
-M,18 to 21,First,0-2 hrs,Online learning,15,Normal
-M,18 to 21,First,0-2 hrs,Online learning,15,Normal
-M,18 to 21,First,2-4 hrs,Social media,43,Mild
-F,18 to 21,First,2-4 hrs,Entertainment,13,Normal
-M,18 to 21,First,6-8 hrs,Social media,50,Moderate
-M,18 to 21,First,2-4 hrs,Social media,44,Mild
-F,18 to 21,First,2-4 hrs,Browsing,23,Normal
-M,18 to 21,First,2-4 hrs,Social media,2,Normal
-M,18 to 21,First,>8 hrs,Browsing,35,Mild
-F,18 to 21,First,2-4 hrs,Online learning,51,Moderate
-F,18 to 21,First,4-6 hrs,Communication,40,Mild
-F,18 to 21,First,0-2 hrs,Browsing,21,Normal
-M,18 to 21,First,4-6 hrs,Online learning,36,Mild
-M,18 to 21,First,4-6 hrs,Entertainment,41,Mild
-M,18 to 21,First,2-4 hrs,Social media,44,Mild
-M,18 to 21,First,0-2 hrs,Entertainment,31,Mild
-M,21 to 25,First,6-8 hrs,Online learning,47,Mild
+gender,age,batch,avg_internet_usage,usage_type,iat_total,iat_cat,qol_total,qol_cat
+F,21 to 25,Final,4-6 hrs,Online learning,8,Normal,114,101-130
+M,21 to 25,Final,4-6 hrs,Online learning,38,Mild,93,76-100
+M,21 to 25,Final,6-8 hrs,Online learning,36,Mild,84,76-100
+F,21 to 25,Final,4-6 hrs,Online learning,51,Moderate,116,101-130
+F,21 to 25,Final,4-6 hrs,Online learning,44,Mild,93,76-100
+M,21 to 25,Final,6-8 hrs,Online learning,34,Mild,103,101-130
+F,21 to 25,Final,6-8 hrs,Social media,62,Moderate,99,76-100
+M,21 to 25,Final,>8 hrs,Entertainment,68,Moderate,85,76-100
+M,21 to 25,Final,0-2 hrs,Social media,12,Normal,106,101-130
+F,21 to 25,Final,>8 hrs,Online learning,16,Normal,92,76-100
+F,21 to 25,Final,6-8 hrs,Online learning,33,Mild,83,76-100
+F,21 to 25,Final,6-8 hrs,Online learning,60,Moderate,84,76-100
+F,21 to 25,Final,6-8 hrs,Communication,41,Mild,99,76-100
+M,21 to 25,Final,4-6 hrs,Online learning,14,Normal,108,101-130
+M,21 to 25,Final,6-8 hrs,Entertainment,28,Normal,80,76-100
+F,21 to 25,Final,4-6 hrs,Online learning,30,Normal,110,101-130
+F,21 to 25,Final,2-4 hrs,Communication,27,Normal,116,101-130
+M,21 to 25,Final,0-2 hrs,Social media,31,Mild,92,76-100
+F,21 to 25,Final,2-4 hrs,Entertainment,43,Mild,89,76-100
+F,21 to 25,Final,6-8 hrs,Online learning,36,Mild,76,76-100
+F,21 to 25,Final,0-2 hrs,Online learning,29,Normal,97,76-100
+F,21 to 25,Final,2-4 hrs,Online learning,16,Normal,119,101-130
+M,21 to 25,Final,4-6 hrs,Online learning,6,Normal,96,76-100
+F,21 to 25,Final,6-8 hrs,Entertainment,29,Normal,77,76-100
+F,21 to 25,Final,2-4 hrs,Entertainment,40,Mild,117,101-130
+F,21 to 25,Final,4-6 hrs,Online learning,10,Normal,113,101-130
+M,21 to 25,Final,6-8 hrs,Social media,47,Mild,89,76-100
+M,21 to 25,Final,>8 hrs,Online learning,24,Normal,113,101-130
+M,21 to 25,Final,>8 hrs,Online learning,28,Normal,125,101-130
+M,21 to 25,Final,4-6 hrs,Communication,36,Mild,108,101-130
+M,21 to 25,Final,0-2 hrs,Social media,38,Mild,104,101-130
+M,21 to 25,Final,4-6 hrs,Online learning,24,Normal,57,51-75
+F,21 to 25,Final,>8 hrs,>1 category,14,Normal,103,101-130
+M,21 to 25,Final,4-6 hrs,Online learning,34,Mild,80,76-100
+M,21 to 25,Final,>8 hrs,Online learning,39,Mild,102,101-130
+M,21 to 25,Final,6-8 hrs,Social media,29,Normal,62,51-75
+M,21 to 25,Final,4-6 hrs,Online learning,20,Normal,99,76-100
+F,21 to 25,Final,4-6 hrs,Online learning,36,Mild,84,76-100
+F,21 to 25,Final,6-8 hrs,Online learning,43,Mild,93,76-100
+F,21 to 25,Final,>8 hrs,Entertainment,49,Mild,117,101-130
+F,21 to 25,Final,2-4 hrs,Online learning,41,Mild,59,51-75
+M,21 to 25,Final,6-8 hrs,Online learning,33,Mild,118,101-130
+M,21 to 25,Final,6-8 hrs,Online learning,35,Mild,74,51-75
+M,21 to 25,Final,4-6 hrs,Online learning,29,Normal,117,101-130
+F,21 to 25,Final,4-6 hrs,Online learning,21,Normal,108,101-130
+F,21 to 25,Final,2-4 hrs,Social media,18,Normal,103,101-130
+F,21 to 25,Final,>8 hrs,Online learning,45,Mild,107,101-130
+F,21 to 25,Final,4-6 hrs,Online learning,35,Mild,82,76-100
+F,21 to 25,Final,4-6 hrs,Online learning,23,Normal,128,101-130
+F,21 to 25,Final,6-8 hrs,Online learning,39,Mild,96,76-100
+F,21 to 25,Final,4-6 hrs,Social media,41,Mild,72,51-75
+F,21 to 25,Final,2-4 hrs,Social media,24,Normal,92,76-100
+F,21 to 25,Final,6-8 hrs,Online learning,28,Normal,78,76-100
+F,21 to 25,Final,4-6 hrs,Browsing,27,Normal,91,76-100
+M,21 to 25,Final,0-2 hrs,Social media,16,Normal,89,76-100
+F,18 to 21,First,4-6 hrs,Social media,24,Normal,91,76-100
+M,18 to 21,First,2-4 hrs,Social media,66,Moderate,95,76-100
+M,18 to 21,First,6-8 hrs,Social media,69,Moderate,81,76-100
+M,18 to 21,First,0-2 hrs,Online learning,34,Mild,81,76-100
+M,18 to 21,First,4-6 hrs,Entertainment,42,Mild,81,76-100
+F,18 to 21,First,2-4 hrs,Communication,61,Moderate,98,76-100
+M,21 to 25,First,0-2 hrs,Social media,49,Mild,42,26-50
+F,18 to 21,First,2-4 hrs,Online learning,13,Normal,94,76-100
+M,21 to 25,First,6-8 hrs,Online learning,59,Moderate,84,76-100
+F,21 to 25,First,4-6 hrs,Social media,57,Moderate,80,76-100
+M,18 to 21,First,6-8 hrs,Online learning,33,Mild,68,51-75
+F,18 to 21,First,2-4 hrs,Social media,18,Normal,68,51-75
+F,18 to 21,First,4-6 hrs,Online learning,26,Normal,99,76-100
+M,18 to 21,First,4-6 hrs,Social media,68,Moderate,88,76-100
+M,18 to 21,First,0-2 hrs,Social media,39,Mild,55,51-75
+F,18 to 21,First,6-8 hrs,Browsing,29,Normal,82,76-100
+M,18 to 21,First,2-4 hrs,Entertainment,16,Normal,87,76-100
+F,18 to 21,First,2-4 hrs,Online learning,24,Normal,77,76-100
+F,18 to 21,First,2-4 hrs,Online learning,17,Normal,87,76-100
+F,18 to 21,First,4-6 hrs,Social media,42,Mild,112,101-130
+M,18 to 21,First,4-6 hrs,Social media,66,Moderate,91,76-100
+M,18 to 21,First,2-4 hrs,Entertainment,43,Mild,94,76-100
+M,18 to 21,First,>8 hrs,Social media,88,Severe,94,76-100
+M,18 to 21,First,6-8 hrs,Social media,55,Moderate,95,76-100
+M,18 to 21,First,0-2 hrs,Social media,31,Mild,88,76-100
+F,18 to 21,First,4-6 hrs,Entertainment,51,Moderate,93,76-100
+M,18 to 21,First,>8 hrs,Social media,91,Severe,111,101-130
+F,18 to 21,First,2-4 hrs,Social media,33,Mild,69,51-75
+M,18 to 21,First,2-4 hrs,Browsing,24,Normal,97,76-100
+M,18 to 21,First,4-6 hrs,Social media,48,Mild,95,76-100
+M,18 to 21,First,2-4 hrs,Social media,55,Moderate,67,51-75
+M,18 to 21,First,0-2 hrs,Online learning,20,Normal,78,76-100
+M,18 to 21,First,4-6 hrs,>1 category,46,Mild,78,76-100
+M,18 to 21,First,2-4 hrs,Entertainment,56,Moderate,76,76-100
+F,18 to 21,First,2-4 hrs,Social media,30,Normal,82,76-100
+F,21 to 25,First,4-6 hrs,Social media,42,Mild,68,51-75
+M,18 to 21,First,4-6 hrs,Entertainment,48,Mild,80,76-100
+M,18 to 21,First,2-4 hrs,Social media,33,Mild,35,26-50
+M,18 to 21,First,4-6 hrs,Social media,55,Moderate,80,76-100
+M,18 to 21,First,0-2 hrs,Social media,33,Mild,81,76-100
+M,18 to 21,First,4-6 hrs,Entertainment,50,Moderate,81,76-100
+M,18 to 21,First,0-2 hrs,Social media,35,Mild,68,51-75
+M,18 to 21,First,4-6 hrs,Online learning,37,Mild,96,76-100
+M,18 to 21,First,>8 hrs,Entertainment,72,Moderate,99,76-100
+F,18 to 21,First,2-4 hrs,Entertainment,12,Normal,102,101-130
+M,18 to 21,First,>8 hrs,Communication,56,Moderate,79,76-100
+M,18 to 21,First,2-4 hrs,Browsing,36,Mild,102,101-130
+M,18 to 21,First,4-6 hrs,Social media,39,Mild,90,76-100
+M,18 to 21,First,0-2 hrs,Communication,32,Mild,75,51-75
+M,18 to 21,First,2-4 hrs,Online learning,54,Moderate,92,76-100
+F,18 to 21,First,2-4 hrs,Social media,43,Mild,90,76-100
+F,18 to 21,First,6-8 hrs,Social media,36,Mild,62,51-75
+M,18 to 21,First,4-6 hrs,Social media,52,Moderate,125,101-130
+M,18 to 21,First,0-2 hrs,Online learning,53,Moderate,78,76-100
+F,18 to 21,First,2-4 hrs,Social media,13,Normal,103,101-130
+F,18 to 21,First,4-6 hrs,Social media,17,Normal,96,76-100
+F,18 to 21,First,4-6 hrs,Social media,39,Mild,88,76-100
+M,18 to 21,First,2-4 hrs,Social media,57,Moderate,80,76-100
+M,21 to 25,First,0-2 hrs,Social media,23,Normal,87,76-100
+M,18 to 21,First,>8 hrs,Online learning,49,Mild,75,51-75
+M,18 to 21,First,4-6 hrs,Online learning,51,Moderate,77,76-100
+F,18 to 21,First,6-8 hrs,Online learning,35,Mild,75,51-75
+M,18 to 21,First,>8 hrs,Social media,64,Moderate,79,76-100
+F,18 to 21,First,4-6 hrs,Social media,50,Moderate,87,76-100
+F,18 to 21,First,2-4 hrs,Entertainment,36,Mild,81,76-100
+M,18 to 21,First,0-2 hrs,Social media,57,Moderate,81,76-100
+M,18 to 21,First,2-4 hrs,Social media,52,Moderate,86,76-100
+M,18 to 21,First,2-4 hrs,Browsing,33,Mild,83,76-100
+M,18 to 21,First,0-2 hrs,Social media,44,Mild,94,76-100
+F,18 to 21,First,2-4 hrs,Social media,39,Mild,95,76-100
+F,18 to 21,First,4-6 hrs,Entertainment,35,Mild,91,76-100
+F,18 to 21,First,2-4 hrs,Online learning,44,Mild,94,76-100
+M,18 to 21,First,0-2 hrs,Communication,70,Moderate,53,51-75
+M,18 to 21,First,4-6 hrs,Social media,39,Mild,59,51-75
+M,18 to 21,First,2-4 hrs,Online learning,26,Normal,74,51-75
+F,18 to 21,First,2-4 hrs,Online learning,29,Normal,95,76-100
+F,18 to 21,First,6-8 hrs,Online learning,80,Severe,58,51-75
+F,21 to 25,First,4-6 hrs,Entertainment,11,Normal,98,76-100
+M,18 to 21,First,4-6 hrs,Social media,46,Mild,59,51-75
+F,18 to 21,First,0-2 hrs,Social media,49,Mild,88,76-100
+M,18 to 21,First,2-4 hrs,Social media,36,Mild,74,51-75
+M,18 to 21,First,0-2 hrs,Browsing,29,Normal,83,76-100
+M,18 to 21,First,6-8 hrs,Social media,39,Mild,102,101-130
+F,18 to 21,First,4-6 hrs,Social media,28,Normal,118,101-130
+M,18 to 21,First,4-6 hrs,Online learning,36,Mild,76,76-100
+M,18 to 21,First,2-4 hrs,Social media,48,Mild,78,76-100
+F,18 to 21,First,2-4 hrs,Social media,27,Normal,89,76-100
+M,18 to 21,First,2-4 hrs,Social media,33,Mild,77,76-100
+F,18 to 21,First,2-4 hrs,Social media,16,Normal,75,51-75
+M,18 to 21,First,4-6 hrs,Social media,54,Moderate,90,76-100
+F,18 to 21,First,4-6 hrs,Entertainment,46,Mild,80,76-100
+M,18 to 21,First,2-4 hrs,Social media,98,Severe,89,76-100
+M,21 to 25,First,>8 hrs,Social media,67,Moderate,75,51-75
+M,18 to 21,First,4-6 hrs,Social media,38,Mild,96,76-100
+F,18 to 21,First,4-6 hrs,Entertainment,57,Moderate,116,101-130
+M,18 to 21,First,4-6 hrs,Browsing,54,Moderate,68,51-75
+M,18 to 21,First,2-4 hrs,Social media,29,Normal,117,101-130
+M,18 to 21,First,2-4 hrs,Social media,74,Moderate,78,76-100
+M,18 to 21,First,4-6 hrs,Social media,49,Mild,89,76-100
+M,18 to 21,First,4-6 hrs,Social media,35,Mild,107,101-130
+M,18 to 21,First,6-8 hrs,Social media,28,Normal,74,51-75
+M,18 to 21,First,2-4 hrs,Social media,28,Normal,97,76-100
+F,18 to 21,First,4-6 hrs,Social media,58,Moderate,88,76-100
+M,18 to 21,First,4-6 hrs,Entertainment,55,Moderate,91,76-100
+M,18 to 21,First,4-6 hrs,Social media,76,Moderate,86,76-100
+M,18 to 21,First,4-6 hrs,Social media,42,Mild,79,76-100
+M,18 to 21,First,0-2 hrs,Entertainment,30,Normal,97,76-100
+M,18 to 21,First,2-4 hrs,Entertainment,52,Moderate,82,76-100
+M,18 to 21,First,6-8 hrs,Entertainment,39,Mild,89,76-100
+M,18 to 21,First,2-4 hrs,Online learning,45,Mild,82,76-100
+M,18 to 21,First,4-6 hrs,Social media,61,Moderate,94,76-100
+M,18 to 21,First,0-2 hrs,Social media,68,Moderate,77,76-100
+M,18 to 21,First,2-4 hrs,Social media,28,Normal,103,101-130
+M,18 to 21,First,2-4 hrs,Social media,49,Mild,111,101-130
+M,21 to 25,First,>8 hrs,Social media,64,Moderate,62,51-75
+F,18 to 21,First,6-8 hrs,Social media,36,Mild,107,101-130
+F,18 to 21,First,2-4 hrs,Social media,54,Moderate,72,51-75
+F,18 to 21,First,2-4 hrs,Social media,14,Normal,79,76-100
+F,18 to 21,First,2-4 hrs,Entertainment,38,Mild,84,76-100
+M,21 to 25,First,2-4 hrs,Browsing,38,Mild,99,76-100
+M,18 to 21,First,0-2 hrs,Social media,62,Moderate,81,76-100
+M,18 to 21,First,0-2 hrs,Social media,30,Normal,66,51-75
+M,18 to 21,First,0-2 hrs,Online learning,15,Normal,114,101-130
+M,18 to 21,First,0-2 hrs,Online learning,15,Normal,86,76-100
+M,18 to 21,First,2-4 hrs,Social media,43,Mild,66,51-75
+F,18 to 21,First,2-4 hrs,Entertainment,13,Normal,84,76-100
+M,18 to 21,First,6-8 hrs,Social media,50,Moderate,60,51-75
+M,18 to 21,First,2-4 hrs,Social media,44,Mild,85,76-100
+F,18 to 21,First,2-4 hrs,Browsing,23,Normal,111,101-130
+M,18 to 21,First,2-4 hrs,Social media,2,Normal,96,76-100
+M,18 to 21,First,>8 hrs,Browsing,35,Mild,100,76-100
+F,18 to 21,First,2-4 hrs,Online learning,51,Moderate,81,76-100
+F,18 to 21,First,4-6 hrs,Communication,40,Mild,99,76-100
+F,18 to 21,First,0-2 hrs,Browsing,21,Normal,78,76-100
+M,18 to 21,First,4-6 hrs,Online learning,36,Mild,80,76-100
+M,18 to 21,First,4-6 hrs,Entertainment,41,Mild,78,76-100
+M,18 to 21,First,2-4 hrs,Social media,44,Mild,100,76-100
+M,18 to 21,First,0-2 hrs,Entertainment,31,Mild,80,76-100
+M,21 to 25,First,6-8 hrs,Online learning,47,Mild,77,76-100
